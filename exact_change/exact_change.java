@@ -4,8 +4,10 @@ public class exact_change {
     public static void main(String[] args) {
         Scanner scnr = new Scanner(System.in);
         int dollar = 0, userChange, penny = 0 , nickel = 0, dime = 0, quarter = 0;
-        
+       
+        System.out.print("Please enter your change (example: for $1.25 enter 125):");
         userChange = scnr.nextInt();
+	System.out.println("");
         // Checks to ensure user actually puts in a value
         if(userChange > 0){
 
