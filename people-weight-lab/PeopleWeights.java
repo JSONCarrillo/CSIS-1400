@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class PeopleWeights {
    public static void main(String[] args) {
+      // My Code
       //initialize variables
       Scanner scnr = new Scanner(System.in);
       double[] weights = new double[5];
@@ -34,5 +35,6 @@ public class PeopleWeights {
       System.out.println("Total weight: " + totalWeight);
       System.out.println("Average weight: " + avgWeight);
       System.out.println("Max weight: " + maxWeight);
+      // End of My Code
    }
 }
