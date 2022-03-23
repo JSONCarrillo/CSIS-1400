@@ -10,6 +10,7 @@ For contenxt of my journey and continued education in the course, assignments wi
 2. People's Weight Lab
 3. Exact Change Lab
 4. Soccer Team Roster
+5. Fibonacci Sequence
 
 ## Lab v. Assignment
 
