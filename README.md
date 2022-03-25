@@ -34,19 +34,13 @@ Ratings are between 1-9 and jerseys are between 0-99
 
 Once all players are assigned a jersey and rating a menu pops up indicating a list of commands a user can choose from
 
-> MENU
-
-> u - Update player rating
-
-> a - Output players above a rating
-
-> r - Replace player 
-
-> o - Output roster
-
-> q - quit
-
-> Choose an option: 
+    MENU
+    u - Update player rating
+    a - Output players above a rating
+    r - Replace player 
+    o - Output roster
+    q - quit
+    Choose an option: 
 
 ### Update Player Rating
 
