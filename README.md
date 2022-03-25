@@ -76,3 +76,10 @@ Fibonnacci sequence is calculated by the first two places 0 and 1, and each plac
 
 So a fibonacci of 8 is 21 because 13 and 8 (the two previous place values), equals to 21.
 
+## Array Sorting Lab
+
+Given the input from a user of:
+
+> 5 35 21 22 6 18
+
+The program would take the first number to determine the size of the array and send it through a method to then be sorted from greatest to least
