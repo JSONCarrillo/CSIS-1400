@@ -106,7 +106,7 @@ public class PlayerRoster {
                   //if the user input matches the iteration's player number proceeds with the logic
                   if(chosenPlayer == roster[i].playerNumber){
                      //loop checks for invalid entries 
-                     while(true){-
+                     while(true){
                         System.out.print("Enter player " + (i + 1) + "'s jersey number: ");
                         playerNumberArray[i] = scnr.nextInt();
                         System.out.print("Enter player " + (i + 1) + "'s rating: ");
