@@ -56,7 +56,6 @@ public class ShoppingCartManager {
         Scanner scnr = new Scanner(System.in);
         String name, date;
         char choice;
-        boolean quit = false;
 
         // ask user for name and date
         System.out.println("Enter Customer's Name:");
